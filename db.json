@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ichi",
+      "price": 1
+    },
+    {
+      "id": 2,
+      "name": "Ni",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "name": "San",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "name": "Shi",
+      "price": 4
+    },
+    {
+      "id": 5,
+      "name": "Go",
+      "price": 5
+    },
+    {
+      "id": 6,
+      "name": "Roku",
+      "price": 6
+    },
+    {
+      "id": 7,
+      "name": "Nana",
+      "price": 7
+    },
+    {
+      "id": 8,
+      "name": "Hachi",
+      "price": 8
+    },
+    {
+      "id": 9,
+      "name": "Kyuu",
+      "price": 9
+    },
+    {
+      "id": 10,
+      "name": "Juu",
+      "price": 10
+    },
+    {
+      "id": 11,
+      "name": "Juuichi",
+      "price": 11
+    }
+  ]
+}
